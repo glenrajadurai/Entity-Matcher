@@ -1,0 +1,541 @@
+entity_id	business_name	business_address	country
+S2_0001	mahindra digital limited	72, MG Road, Bengaluru	IN
+S2_0002	biolab ltd.	97 Broadway Avenue, Suite 763, Toronto	US
+S2_0003	Mahindra Infra Ltd		IN
+S2_0004	Wipro Infra Limited	62, Inner Ring Rd, Delhi	IN
+S2_0005	Muller Industrie AG	Hauptstrasse 60, Munchen	DE
+S2_0006	Weber Technik KG	Berliner Strasse 81, Munchen	DE
+S2_0007	Schmidt Handel AG		DE
+S2_0008	Satsohi S.A.	565 Oak Rue, Suite 369, Toronto	US
+S2_0009	Synergy Holdings		CA
+S2_0010	Schneider Technik AG	Hauptstrasse 124, Berlin	DE
+S2_0011	Leclerc Solutoins	866 Main Road, Suite 228, Sydney	US
+S2_0012	Biolab Enterprises	602 Washington Ave, Suite 388, Toronto	US
+S2_0013	Tata Infra Limited	23, Inner Ring Rd, Hyderabad	IN
+S2_0014	Weber Handel KG		DE
+S2_0015	Leclerc S.A.	563 Market Ave, Suite 674, Sydney	US
+S2_0016	Leclerc S.A.		US
+S2_0017	Atelier Dufour S..AR.L.	151 Boulevard Saint-Germain, Paris	FR
+S2_0018	Societe Girard S.A.	160 Boulevard Saint-Germain, Marseille	FR
+S2_0019	Weber Handel AG	Hauptstrasse 62, Berlin	DE
+S2_0020	Tata Service sLtd	27, Inner Ring Rd, Bengaluru	IN
+S2_0021	Vanguard Enterprises	368 Washington Way, Suite 417, New York	GB
+S2_0022	Schmidt Industrie KG	Bahnhofstrasse 96, Berlin	DE
+S2_0023	Tata Exports Pvt Ltd	39, Inner Ring Rd, Delhi	IN
+S2_0024	Tata Infra Ltd	59, MG Road, Mumbai	IN
+S2_0025	Groupe Laurent S.A.	129 Boulevard Saint-Germain, Lyon	FR
+S2_0026	Cybertech S.A.	681 Market Rd, Suite 302, Sydney	US
+S2_0027	Horizon Group		US
+S2_0028	atelier girard s.a.	124 Boulevard Saint-Germain, Lyon	FR
+S2_0029	Schneider Industrie KG	Bahnhofstrasse 147, Hamburg	DE
+S2_0030	Schneider Industrie KG		DE
+S2_0031	Apex Group	649 Oak Road, Suite 740, Toronto	US
+S2_0032	Apxe Group	649 Oak Road, Suite 740, Toronto	US
+S2_0033	Tata Exporst Limited	31, Inner Ring Rd, Mumbai	IN
+S2_0034	Tata S.A.	633 Main Avenue, Suite 671, New York	US
+S2_0035	Tata SA..	633 Main Avenue, Suite 671, New York	US
+S2_0036	Tata Corp.	462 Broadway Strasse, Suite 108, New York	US
+S2_0037	Infosys Infra Pvt Ltd		IN
+S2_0038	Synergy Logistics	431 Market Ave, Suite 211, London	US
+S2_0039	Satoshi Tech	715 Washington Way, Suite 260, Sydney	CA
+S2_0040	Tata Logistcis	513 Washington St, Suite 739, New York	US
+S2_0041	compagnie laurent s.a.r.l.	119 Avenue des Champs-Elysees, Lyon	FR
+S2_0042	Groupe Dufour SAS	182 Rue de Rivoli, Marseille	FR
+S2_0043	Maihndra Exports Ltd	28, GC Avenue, Hyderabad	IN
+S2_0044	Tata Enterprises	525 Washington St, Suite 611, New York	JP
+S2_0045	Muller Industries	527 Washington Chaussee, Suite 844, New York	AU
+S2_0046	Reliance Industries	616 Washington Chaussee, Suite 215, Toronto	CA
+S2_0047	Vertex Group	695 Oak Boulevard, Suite 762, London	CA
+S2_0048	Quantum Tech	995 Main Road, Suite 492, Toronto	US
+S2_0049	Schneider Techink AG	Berliner Strasse 26, Hamburg	DE
+S2_0050	Atelier oMreau S.A.R.L.	115 Boulevard Saint-Germain, Marseille	FR
+S2_0051	Ateleir Moreau S.A.R.L.	115 Boulevard Saint-Germain, Marseille	FR
+S2_0052	Reliance Infra Ltd	63, Inner Ring Rd, Delhi	IN
+S2_0053	Maihndra Exports Pvt Ltd	58, Inner Ring Rd, Bengaluru	IN
+S2_0054	Horizon Pharmaceuticals	453 Broadway St, Suite 363, New York	US
+S2_0055	Weber Technik AG	Bahnhofstrasse 147, Berlin	DE
+S2_0056	Infosys Infra Pvt Ltd	55, Inner Ring Rd, Bengaluru	IN
+S2_0057	VanguardC orp.	650 Oak Rue, Suite 612, Toronto	US
+S2_0058	Tata GmbH	497 Broadway Blvd, Suite 371, New York	US
+S2_0059	Schneider Technik AG	Hauptstrasse 76, Munchen	DE
+S2_0060	Mahindra Exports Ltd	29, Inner Ring Rd, Hyderabad	IN
+S2_0061	Stalright Solutions	263 Broadway Rd, Suite 861, London	GB
+S2_0062	Starlight Technoloiges	189 Oak Rue, Suite 758, London	CA
+S2_0063	Atelier Dufour S.A.	4 Rue de Rivoli, Marseille	FR
+S2_0064	Cybertehc Technologies	684 Market St, Suite 790, Toronto	CA
+S2_0065	Muller Technologies	262 Washington Street, Suite 134, Toronto	US
+S2_0066	Synergy S.A.	979 Oak St., Suite 214, New York	US
+S2_0067	Synergy S.A.	979 Oak St., Suite 214, New York	US
+S2_0068	Reliance ServicesP vt Ltd	75, MG Road, Hyderabad	IN
+S2_0069	muller technik gmbh	Bahnhofstrasse 101, Berlin	DE
+S2_0070	Compagine Dufour SAS	36 Avenue des Champs-Elysees, Paris	FR
+S2_0071	Compagnie Dufour SAS	36 Avenue des Champs-Elysees, Paris	FR
+S2_0072	Omni Corp.	378 Broadway Rd, Suite 316, Toronto	GB
+S2_0073	Reliance Soln	71 Market Way, Suite 441, New York	US
+S2_0074	Reliance Logistics	405 Broadway Way, Suite 175, New York	JP
+S2_0075	Wipro Digital Pvt Ltd	16, MG Road, Bengaluru	IN
+S2_0076	Starlight Industries	160 Main Rd, Suite 208, New York	US
+S2_0077	Global GmbH	310 Market Ave., Suite 169, Sydney	US
+S2_0078	Cybertech Pharmacetuicals	176 Washington Rue, Suite 630, Toronto	US
+S2_0079	Mahindra Services Pvt Ltd	92, Inner Ring Rd, Mumbai	IN
+S2_0080	Group eDufour SAS	113 Rue de la Paix, Paris	FR
+S2_0081	Horizo nS.A.	565 Broadway Blvd, Suite 179, London	US
+S2_0082	Omni Logistics	236 Washington Avenue, Suite 540, London	CA
+S2_0083	Reliance Solutions	382 Washington Rd, Suite 111, London	US
+S2_0084	Synergy Pharmaceuticals	981 Market Blvd, Suite 107, London	AU
+S2_0085	Synergy S.A.	325 Oak Chaussee, Suite 831, New York	US
+S2_0086	reliance gmbh	938 Broadway Avenue, Suite 560, Sydney	AU
+S2_0087	Societe Enterprsies	262 Oak Ave, Suite 355, New York	US
+S2_0088	Groupe oMreau S.A.R.L.	109 Rue de la Paix, Marseille	FR
+S2_0089	Tata Exoprts Limited	49, GC Avenue, Bengaluru	IN
+S2_0090	Muller aHndel KG	Berliner Strasse 98, Berlin	DE
+S2_0091	Tata eSrvices Limited	6, NH-44, Bengaluru	IN
+S2_0092	Societe Moreau SAS	181 Blvd. Saint-Germain, Paris	FR
+S2_0093	Societe Moreau SAS	181 Boulevard Saint-Germain, Paris	FR
+S2_0094	schmidt handel kg	Hauptstrasse 85, Munchen	DE
+S2_0095	Apex Enterprises	694 Broadway Avenue, Suite 545, New York	US
+S2_0096	Apex Enterpirses	694 Broadway Avenue, Suite 545, New York	US
+S2_0097	Atelier Dufou rS.A.R.L.	133 Avenue des Champs-Elysees, Lyon	FR
+S2_0098	Reliance Holdings	216 Broadway Blvd, Suite 677, Toronto	GB
+S2_0099	Horizon Corp.	747 Oak Street, Suite 897, Toronto	US
+S2_0100	Reliance Infra Ltd	38, MG Road, Hyderabad	IN
+S2_0101	Quantum Enterprises	90 Broadway Ave., Suite 237, Sydney	CA
+S2_0102	Reliance Copr.	861 Broadway Street, Suite 873, New York	GB
+S2_0103	Infsoys Digital Limited	23, GC Avenue, Hyderabad	IN
+S2_0104	Tata Group	909 Market Road, Suite 380, Toronto	US
+S2_0105	tata group	909 Market Road, Suite 380, Toronto	US
+S2_0106	Satoshi S.A.	60 Washington Blvd, Suite 104, London	JP
+S2_0107	Hoirzon Solutions	654 Main Chaussee, Suite 445, London	US
+S2_0108	reliance services limited	73, Inner Ring Rd, Bengaluru	IN
+S2_0109	Reliance Services Limited	73, Inner Ring Rd, Bengaluru	IN
+S2_0110	Infosys Digital Ltd	81, Inner Ring Rd, Hyderabad	IN
+S2_0111	Reliacne Enterprises	262 Market Road, Suite 825, London	GB
+S2_0112	Compagnie Moreau S.A.R.L.	109 Avenue des Champs-Elysees, Lyon	FR
+S2_0113	Compagnie oMreau S.A.R.L.	109 Avenue des Champs-Elysees, Lyon	FR
+S2_0114	Global Entreprises	632 Washington Chaussee, Suite 373, London	US
+S2_0115	Global Enterprises	632 Washington Chaussee, Suite 373, London	US
+S2_0116	Reliance Exports Ltd	17, MG Road, Hyderabad	IN
+S2_0117	Reliance Digital Ltd	18, GC Avenue, Hyderabad	IN
+S2_0118	Groupe Laurent S.A.	83 Ave. des Champs-Elysees, Paris	FR
+S2_0119	OmniG mbH	298 Broadway Boulevard, Suite 376, London	AU
+S2_0120	Wipro Exports Limited	62, Inner Ring Rd, Mumbai	IN
+S2_0121	Vagnuard Holdings	908 Washington Road, Suite 328, Sydney	US
+S2_0122	Vanguard Holdings		US
+S2_0123	Horizon Tech	477 Market Strasse, Suite 103, Toronto	AU
+S2_0124	Reliance Group	956 Main St., Suite 814, Sydney	GB
+S2_0125	Mahindra Infra Ltd	70, Inner Ring Rd, Mumbai	IN
+S2_0126	Weber Technik GmbH	Berliner Strasse 1, Munchen	DE
+S2_0127	Horizon Indutsries	903 Washington Avenue, Suite 358, New York	GB
+S2_0128	Reliance Services Ltd	10, NH-44, Mumbai	IN
+S2_0129	Reliance Services Lmiited	10, NH-44, Mumbai	IN
+S2_0130	Reliance Infra Ltd	63, MG Road, Bengaluru	IN
+S2_0131	Biolab Group	559 Washington St, Suite 680, London	GB
+S2_0132	Biolab Group		GB
+S2_0133	schmidt handel gmbh	Berliner Strasse 137, Munchen	DE
+S2_0134	Vertex Solutions	305 Market Road, Suite 878, New York	US
+S2_0135	Atelier Dufour S.A.	42 Rue de la Paix, Lyon	FR
+S2_0136	Global Group		GB
+S2_0137	Societe Dufour S.A.		FR
+S2_0138	Societe Duofur S.A.	194 Avenue des Champs-Elysees, Paris	FR
+S2_0139	Global Enterprises		CA
+S2_0140	Weber Industrie KG	Hauptstrasse 33, Munchen	DE
+S2_0141	Starlight Pharmaceuticals	450 Main Blvd, Suite 510, Toronto	JP
+S2_0142	Starlight Pharmaceuticals	843 Oak Blvd, Suite 734, London	US
+S2_0143	Atelier Dufour S.A.	47 Rue de Rivoli, Paris	FR
+S2_0144	Infosys Exports Pvt tLd	38, Inner Ring Rd, Hyderabad	IN
+S2_0145	Reliance Exports Limited	12, Inner Ring Rd, Bengaluru	IN
+S2_0146	Satoshi GmbH	632 Market Strasse, Suite 559, Sydney	US
+S2_0147	Atelier Dufour .SA.	72 Boulevard Saint-Germain, Lyon	FR
+S2_0148	Vanguard Pharmaceuticals	60 Broadway Road, Suite 396, London	GB
+S2_0149	Apex Industries	414 Oak Ave., Suite 281, Toronto	CA
+S2_0150	Synergy Industires	440 Main Blvd, Suite 236, London	CA
+S2_0151	Synergy Idnustries	440 Main Blvd, Suite 236, London	CA
+S2_0152	Vanguard Enterprises		GB
+S2_0153	Global Technologies	484 Oak Strasse, Suite 628, Sydney	CA
+S2_0154	Apex Solutions	294 Washington Boulevard, Suite 765, Sydney	US
+S2_0155	Reliance Holdings		US
+S2_0156	Wipro Digiatl Ltd	49, GC Avenue, Bengaluru	IN
+S2_0157	Infosys Digital iLmited	62, NH-44, Mumbai	IN
+S2_0158	Reliance Exports Ltd	94, Inner Ring Rd, Delhi	IN
+S2_0159	Reliance Exports Ltd		IN
+S2_0160	Apex Group	934 Washington Rue, Suite 557, Toronto	US
+S2_0161	Atelier DufourS AS	55 Rue de Rivoli, Lyon	FR
+S2_0162	Synergy Sloutions	322 Washington Road, Suite 542, Toronto	JP
+S2_0163	Leclerc Industries	588 Washington St, Suite 703, Toronto	US
+S2_0164	Schneider Handel AG	Berliner Strasse 144, Berlin	DE
+S2_0165	Muller Holdings	953 Oak Rd, Suite 429, Toronto	US
+S2_0166	Muller Industrie GmbH	Berliner Strasse 36, Berlin	DE
+S2_0167	Reliance Services Ltd	69, NH-44, Delhi	IN
+S2_0168	Nexus Enterprises	480 Market Ave., Suite 360, New York	US
+S2_0169	Tata Exports Ltd	44, GC Avenue, Hyderabad	IN
+S2_0170	cybertech group	602 Oak Road, Suite 158, London	AU
+S2_0171	Tata Exports Limited		IN
+S2_0172	Societe DufourS AS	22 Boulevard Saint-Germain, Lyon	FR
+S2_0173	Societe Tech	736 Broadway Strasse, Suite 245, Sydney	AU
+S2_0174	Starlight GmbH		US
+S2_0175	Wipro Digital Ltd	86, MG Road, Delhi	IN
+S2_0176	horizon ltd.	177 Oak Chaussee, Suite 848, New York	CA
+S2_0177	Reliance Services Ltd	26, MG Road, Hyderabad	IN
+S2_0178	Muller Technologies		GB
+S2_0179	Biolab Group		GB
+S2_0180	Groupe Mroeau SAS	111 Rue de Rivoli, Lyon	FR
+S2_0181	Societe Ltd.	491 Main Rue, Suite 549, New York	US
+S2_0182	Infosys Digital Pvt Ltd	44, GC Ave., Mumbai	IN
+S2_0183	Cybertech Enterprises		US
+S2_0184	Muller Industrie AG		DE
+S2_0185	Muller Industrie AG		DE
+S2_0186	Vanguard S.A.	56 Oak Rd, Suite 500, Toronto	US
+S2_0187	Vanguard S.A.		US
+S2_0188	Groupe Moreau SAS	14 Boulevard Saint-Germain, Paris	FR
+S2_0189	Gruope Moreau SAS	14 Boulevard Saint-Germain, Paris	FR
+S2_0190	Schneider Hande lKG	Berliner Strasse 82, Hamburg	DE
+S2_0191	Global Enterprises	411 Washington Rue, Suite 714, New York	JP
+S2_0192	Weber Industrie GmbH	Bahnhofstrasse 131, Berlin	DE
+S2_0193	Groupe Laurent SAS	108 Blvd. Saint-Germain, Marseille	FR
+S2_0194	starlight pharmaceuticals	930 Broadway Street, Suite 260, Sydney	GB
+S2_0195	Wipro Exports PvtL td	55, GC Avenue, Mumbai	IN
+S2_0196	Societ eTechnologies	425 Washington Strasse, Suite 138, London	AU
+S2_0197	Societe Tech	425 Washington Strasse, Suite 138, London	AU
+S2_0198	Tata Sevrices Pvt Ltd	57, NH-44, Hyderabad	IN
+S2_0199	societe group	679 Oak Avenue, Suite 245, London	US
+S2_0200	Atelier Dufour S.A.	73 Blvd. Saint-Germain, Paris	FR
+S2_0201	Wipro Infra Ltd	37, MG Road, Bengaluru	IN
+S2_0202	Horizon Holdings	449 Washington St., Suite 252, Toronto	US
+S2_0203	Synergy Logistics		AU
+S2_0204	Omni Industries		GB
+S2_0205	Quantum Enterpirses	699 Oak St, Suite 315, Toronto	AU
+S2_0206	Horizon Group	902 Main Way, Suite 679, London	GB
+S2_0207	Schmidt Industrie AG	Berliner Strasse 133, Munchen	DE
+S2_0208	Societe Girard S.A.	28 Rue de la Paix, Paris	FR
+S2_0209	Synergy Enterprises	707 Washington Road, Suite 139, London	JP
+S2_0210	Societe Dufour S.A.	6 Rue de Rivoli, Marseille	FR
+S2_0211	Apex Ltd.	580 Main Strasse, Suite 656, New York	JP
+S2_0212	Apex Ldt.	580 Main Strasse, Suite 656, New York	JP
+S2_0213	starlight ltd.	431 Market Rd, Suite 232, Toronto	CA
+S2_0214	Quantum S.A.	681 Washington Blvd, Suite 769, Toronto	AU
+S2_0215	Starlight Technologies	727 Broadway Chaussee, Suite 394, London	US
+S2_0216	muller ltd.	122 Main St, Suite 459, Toronto	US
+S2_0217	Mahindra iDgital Pvt Ltd	83, Inner Ring Rd, Delhi	IN
+S2_0218	Atelier Moreau SAS		FR
+S2_0219	Starlgiht Logistics	873 Market Street, Suite 423, Toronto	CA
+S2_0220	Cybretech Pharmaceuticals	410 Oak Boulevard, Suite 804, London	US
+S2_0221	Compagnie Moreau S.A.R.L.	14 Rue de Rivoli, Marseille	FR
+S2_0222	StarlightL td.	236 Market Chaussee, Suite 106, New York	AU
+S2_0223	Horizon Enterprises	468 Oak Rd, Suite 637, London	US
+S2_0224	Starlight Solutions	108 Broadway Way, Suite 138, Toronto	US
+S2_0225	Biolab Logistics	809 Oak Ave., Suite 121, Toronto	GB
+S2_0226	RelianceC orp.	449 Market Blvd, Suite 402, Sydney	US
+S2_0227	Horizon Enteprrises	962 Broadway Ave, Suite 606, New York	JP
+S2_0228	Horizon Enterpirses	962 Broadway Ave, Suite 606, New York	JP
+S2_0229	Reliance Services Limited		IN
+S2_0230	Schmitd Industrie KG	Bahnhofstrasse 145, Berlin	DE
+S2_0231	Leclerc Ltd.		GB
+S2_0232	Cybertech Industries		GB
+S2_0233	Tata Exports Ltd	38, NH-44, Bengaluru	IN
+S2_0234	Tata Exports Ltd	38, NH-44, Bengaluru	IN
+S2_0235	Nexus Gorup	593 Washington St, Suite 171, New York	US
+S2_0236	satoshi pharmaceuticals	553 Washington Way, Suite 201, New York	US
+S2_0237	Vanguard Soltuions	597 Main Boulevard, Suite 185, Sydney	US
+S2_0238	Schmitd Handel GmbH	Bahnhofstrasse 33, Berlin	DE
+S2_0239	Tata Services Pvt Ltd		IN
+S2_0240	Muller S.A.		AU
+S2_0241	Vertex Ltd.	911 Main Blvd., Suite 172, Toronto	AU
+S2_0242	Societe Moreau S.A.R.L.	92 Avenue des Champs-Elysees, Lyon	FR
+S2_0243	Compagnie Laurent SAS	84 Rue de Rivoli, Lyon	FR
+S2_0244	Compagnie Laurent SAS	84 Rue de Rivoli, Lyon	FR
+S2_0245	Vetrex GmbH	709 Oak Strasse, Suite 111, Toronto	GB
+S2_0246	Muller Tcehnik KG	Bahnhofstrasse 147, Hamburg	DE
+S2_0247	Mahindra Infar Ltd	53, GC Avenue, Hyderabad	IN
+S2_0248	Reliance Exports Pvt tLd	83, Inner Ring Rd, Bengaluru	IN
+S2_0249	Vanguard Ltd.	652 Market Rue, Suite 854, Toronto	AU
+S2_0250	leclerc solutions	912 Market St, Suite 824, Toronto	US
+S2_0251	Wipro Services Pvt Ltd	20, NH-44, Hyderabad	IN
+S2_0252	compagnie girard s.a.	164 Avenue des Champs-Elysees, Paris	FR
+S2_0253	Wipro Exports Ltd	34, NH-44, Mumbai	IN
+S2_0254	Wipro Exports Limited	34, NH-44, Mumbai	IN
+S2_0255	Schneider Industrie AG	Bahnhofstrasse 125, Hamburg	DE
+S2_0256	atelier dufour sas	99 Avenue des Champs-Elysees, Lyon	FR
+S2_0257	CybertechT echnologies	384 Broadway Blvd, Suite 652, London	US
+S2_0258	Leclerc Group	240 Main Avenue, Suite 229, Toronto	US
+S2_0259	Nexus Enterprises	238 Broadway St, Suite 523, Sydney	US
+S2_0260	societe holdings	312 Washington Rue, Suite 806, London	US
+S2_0261	Quantum S.A.	853 Main St, Suite 232, Sydney	US
+S2_0262	Compganie Dufour S.A.	49 Rue de la Paix, Marseille	FR
+S2_0263	cybertech ltd.	966 Market Street, Suite 433, London	JP
+S2_0264	omni logistics	291 Broadway St, Suite 218, Toronto	US
+S2_0265	Mahindra Digital Ltd	33, MG Road, Delhi	IN
+S2_0266	quantum logistics	702 Oak Road, Suite 350, Toronto	US
+S2_0267	Societe Logistics	345 Oak Rue, Suite 474, Sydney	US
+S2_0268	Societe Logistics	345 Oak Rue, Suite 474, Sydney	US
+S2_0269	Nexus Soln	320 Oak Strasse, Suite 513, London	US
+S2_0270	Synergy Group	890 Market Strasse, Suite 444, London	US
+S2_0271	Reliance Exports Pvt Ltd		IN
+S2_0272	Reliance Exports Pvt Ltd		IN
+S2_0273	Mahindra Services Ltd	77, GC Ave., Bengaluru	IN
+S2_0274	Nexus Pharmaceuticals	503 Market Blvd., Suite 118, London	US
+S2_0275	Nexus Pharmaceuticals	503 Market Blvd., Suite 118, London	US
+S2_0276	Socitee GmbH		CA
+S2_0277	global gmbh	734 Main Chaussee, Suite 810, Toronto	US
+S2_0278	Weber Technik GmbH		DE
+S2_0279	Reliance Digital Limited		IN
+S2_0280	Groupe Dufour SAS	85 Ave. des Champs-Elysees, Lyon	FR
+S2_0281	mahindra services pvt ltd	25, NH-44, Bengaluru	IN
+S2_0282	Mahindra Digital Ltd	43, NH-44, Delhi	IN
+S2_0283	Satoshi Corp.	900 Washington Blvd, Suite 506, Toronto	GB
+S2_0284	Leclerc Industries	133 Main Avenue, Suite 814, Toronto	US
+S2_0285	societe pharmaceuticals	796 Oak Avenue, Suite 472, Sydney	US
+S2_0286	muller industrie kg	Bahnhofstrasse 146, Munchen	DE
+S2_0287	Muller IndustrieK G	Bahnhofstrasse 146, Munchen	DE
+S2_0288	societe holdings	968 Main Rue, Suite 544, London	US
+S2_0289	Compagnie Dufour SAS		FR
+S2_0290	Vanguard S.A.	530 Oak Road, Suite 477, New York	JP
+S2_0291	Synergy Group		GB
+S2_0292	Starlight Corp.	176 Oak Way, Suite 245, Toronto	US
+S2_0293	Societe Laurent S.A.R.L.	69 Blvd. Saint-Germain, Paris	FR
+S2_0294	Schmidt Technik KG	Hauptstrasse 37, Hamburg	DE
+S2_0295	Vertex Holdings	606 Oak Ave, Suite 653, London	AU
+S2_0296	Vertex Holdings	606 Oak Ave, Suite 653, London	AU
+S2_0297	Tata Services Limited		IN
+S2_0298	Horizon S.A.	297 Broadway Avenue, Suite 843, New York	US
+S2_0299	Vertex GmbH	657 Main Strasse, Suite 169, New York	JP
+S2_0300	Atelire Moreau S.A.R.L.	67 Avenue des Champs-Elysees, Paris	FR
+S2_0301	Reliacne Digital Pvt Ltd	81, GC Avenue, Mumbai	IN
+S2_0302	wipro infra pvt ltd	44, Inner Ring Rd, Hyderabad	IN
+S2_0303	Lecelrc GmbH	320 Oak Way, Suite 154, Sydney	AU
+S2_0304	Tata Corp.	657 Market Ave, Suite 755, London	US
+S2_0305	synergy pharmaceuticals	526 Market Road, Suite 347, Sydney	US
+S2_0306	Horizon Phamraceuticals	987 Main Blvd, Suite 883, Sydney	US
+S2_0307	Tata Services Ltd	75, GC Ave., Hyderabad	IN
+S2_0308	Starlight Technologies	320 Washington Boulevard, Suite 242, London	US
+S2_0309	Starlight Tech	320 Washington Blvd., Suite 242, London	US
+S2_0310	Atelier Moerau SAS	49 Avenue des Champs-Elysees, Lyon	FR
+S2_0311	Vertex Group	679 Washington Rd, Suite 625, New York	GB
+S2_0312	Satoshi S.A.	546 Oak Way, Suite 352, London	AU
+S2_0313	Tata Exports Pvt Ltd	52, GC Ave., Delhi	IN
+S2_0314	Tata Exports Pvt Ltd	52, GC Avenue, Delhi	IN
+S2_0315	leclerc logistics	182 Market Chaussee, Suite 899, Sydney	US
+S2_0316	Mahindra Digital Pvt Ltd	20, Inner Ring Rd, Bengaluru	IN
+S2_0317	Horizon Ltd.	263 Oak Chaussee, Suite 762, Toronto	US
+S2_0318	Mahindra Digital Pvt Ltd		IN
+S2_0319	Reliance Services Limited	56, GC Avenue, Bengaluru	IN
+S2_0320	Tata Digital Ltd	73, NH-44, Mumbai	IN
+S2_0321	Satoshi Industries	637 Broadway Ave, Suite 618, Toronto	GB
+S2_0322	Satoshi Industries	637 Broadway Ave, Suite 618, Toronto	GB
+S2_0323	Mahindra Services Pvt Ltd	5, Inner Ring Rd, Delhi	IN
+S2_0324	Societe Industries	702 Oak Blvd, Suite 272, Sydney	GB
+S2_0325	Societe Industries	702 Oak Blvd, Suite 272, Sydney	GB
+S2_0326	Infosys Srevices Limited	63, MG Road, Hyderabad	IN
+S2_0327	Infosys Services Limited	63, MG Road, Hyderabad	IN
+S2_0328	Starlgiht Technologies	573 Market Street, Suite 843, Toronto	US
+S2_0329	Wipro Services Ptv Ltd	42, MG Road, Mumbai	IN
+S2_0330	Wipro Services Pvt Ltd		IN
+S2_0331	Biolba Holdings	811 Washington Boulevard, Suite 299, New York	GB
+S2_0332	atelier laurent s.a.	69 Rue de Rivoli, Paris	FR
+S2_0333	Mahnidra Infra Ltd	87, GC Avenue, Bengaluru	IN
+S2_0334	Wipro Digital Limited	83, GC Avenue, Delhi	IN
+S2_0335	Biolab S.A.	270 Broadway Boulevard, Suite 451, Sydney	US
+S2_0336	Horizon Corp.		US
+S2_0337	Starlight Logistics	599 Main Way, Suite 316, London	US
+S2_0338	Reliance Exports Ltd	36, NH-44, Delhi	IN
+S2_0339	societe industries	169 Market Street, Suite 622, London	AU
+S2_0340	societe industries	169 Market Street, Suite 622, London	AU
+S2_0341	Reliance Digital Ltd		IN
+S2_0342	Groupe Dufour S.A.R.L.	22 Rue de Rivoli, Lyon	FR
+S2_0343	Cybertech Enterprises	695 Main Road, Suite 221, Sydney	CA
+S2_0344	Tata Infra Ltd	47, Inner Ring Rd, Bengaluru	IN
+S2_0345	Synergy Group		GB
+S2_0346	Leclerc Enterprises	416 Market Blvd., Suite 782, New York	GB
+S2_0347	Atelier Laurent SAS	118 Boulevard Saint-Germain, Marseille	FR
+S2_0348	Schneider Industrie GmbH		DE
+S2_0349	Schneider Idnustrie GmbH	Hauptstrasse 111, Munchen	DE
+S2_0350	Atelier Dufour S.A.	3 Rue de la Paix, Marseille	FR
+S2_0351	Atelier Dufour S.A.	3 Rue de la Paix, Marseille	FR
+S2_0352	Schneider nIdustrie KG	Bahnhofstrasse 112, Berlin	DE
+S2_0353	Atelier Moreau S.A.R.L.	90 Avenue des Champs-Elysees, Lyon	FR
+S2_0354	Horizon Group	220 Broadway Rue, Suite 231, Toronto	GB
+S2_0355	Wipro Exports Pvt Ltd		IN
+S2_0356	Schmidt Industrie GmbH	Bahnhofstrasse 38, Munchen	DE
+S2_0357	Tata ServicesL td	71, NH-44, Bengaluru	IN
+S2_0358	Atelier Dufour .SA.R.L.	55 Rue de Rivoli, Lyon	FR
+S2_0359	Infosys Exports Ltd	76, Inner Ring Rd, Mumbai	IN
+S2_0360	Infosys Exports Ltd	76, Inner Ring Rd, Mumbai	IN
+S2_0361	schneider industrie gmbh	Bahnhofstrasse 113, Hamburg	DE
+S2_0362	reliance ltd.	485 Washington Strasse, Suite 217, New York	US
+S2_0363	Schneider Technik AG	Hauptstrasse 61, Munchen	DE
+S2_0364	Mahindra Digital Ltd	94, Inner Ring Rd, Mumbai	IN
+S2_0365	Reliance Ltd.	886 Washington Blvd, Suite 525, Toronto	US
+S2_0366	Infosys Services Ltd	64, MG Road, Hyderabad	IN
+S2_0367	Quantum Industries	365 Oak Avenue, Suite 737, Toronto	GB
+S2_0368	Vertex Solutions	801 Main Avenue, Suite 281, London	CA
+S2_0369	atelier dufour sas	84 Rue de Rivoli, Paris	FR
+S2_0370	Cybertehc S.A.	423 Market Rd, Suite 262, Toronto	AU
+S2_0371	Quantum Pharmaceuticals	627 Main Boulevard, Suite 655, New York	CA
+S2_0372	Infosys Digital Ptv Ltd	15, Inner Ring Rd, Hyderabad	IN
+S2_0373	Weebr Industrie KG	Hauptstrasse 120, Munchen	DE
+S2_0374	Schmidt Technik AG	Hauptstrasse 131, Hamburg	DE
+S2_0375	Reliance Enterprises	380 Main Blvd, Suite 483, Sydney	US
+S2_0376	Tata Sevrices Pvt Ltd	68, GC Avenue, Mumbai	IN
+S2_0377	Apex Soln	673 Broadway St., Suite 127, London	US
+S2_0378	Compagnie Moreau S.A.	17 Avenue des Champs-Elysees, Lyon	FR
+S2_0379	Nexus Solutions	851 Broadway Blvd, Suite 613, London	US
+S2_0380	Nexus S.A.	107 Washington Rd, Suite 185, Sydney	GB
+S2_0381	Synergy Pharmaceuticals	965 Washington Rue, Suite 710, Sydney	US
+S2_0382	Synergy Pharmaceuticals	965 Washington Rue, Suite 710, Sydney	US
+S2_0383	Reliance Holdings	286 Market Rue, Suite 482, Sydney	GB
+S2_0384	Reliacne Holdings	286 Market Rue, Suite 482, Sydney	GB
+S2_0385	Leclerc Group		GB
+S2_0386	Vanguard Group	67 Market Rue, Suite 546, London	US
+S2_0387	Vertex Group	53 Main Rue, Suite 326, London	US
+S2_0388	Tata Digitla Pvt Ltd	43, GC Avenue, Bengaluru	IN
+S2_0389	tata digital pvt ltd	43, GC Avenue, Bengaluru	IN
+S2_0390	cybertech s.a.	17 Market Chaussee, Suite 396, Sydney	AU
+S2_0391	Synergy Holdigns	914 Oak Rue, Suite 567, London	US
+S2_0392	synergy holdings	914 Oak Rue, Suite 567, London	US
+S2_0393	Apex oCrp.	138 Broadway Chaussee, Suite 787, Toronto	AU
+S2_0394	Infoyss Infra Ltd	12, GC Avenue, Mumbai	IN
+S2_0395	Tata Digiatl Ltd	21, Inner Ring Rd, Bengaluru	IN
+S2_0396	Omin GmbH	140 Main Avenue, Suite 892, Sydney	US
+S2_0397	Omni Enterprises	710 Market Way, Suite 471, London	JP
+S2_0398	Copmagnie Girard S.A.	139 Avenue des Champs-Elysees, Marseille	FR
+S2_0399	Muller Technik AG	Bahnhofstrasse 131, Munchen	DE
+S2_0400	Apex Industries	684 Market Street, Suite 140, Toronto	US
+S2_0401	Mahindra Infar Limited	94, GC Avenue, Delhi	IN
+S2_0402	Atelier Dufour S.A.R.L.	66 Boulevard Saint-Germain, Marseille	FR
+S2_0403	Atelier Dufour S.A.R.L.	66 Boulevard Saint-Germain, Marseille	FR
+S2_0404	Vanguard Logistics	133 Main Road, Suite 858, Toronto	US
+S2_0405	Vertex Logistics		US
+S2_0406	Muller Logistics		US
+S2_0407	Societe Technologies	124 Main Boulevard, Suite 350, Toronto	GB
+S2_0408	Compagnie Moreau S.A.R.L.	38 Avenue des Champs-Elysees, Paris	FR
+S2_0409	compagnie laurent s.a.r.l.	78 Boulevard Saint-Germain, Paris	FR
+S2_0410	muller s.a.		US
+S2_0411	Vanguard Corp.		GB
+S2_0412	Vanguard Corp.	989 Broadway Rd, Suite 817, Toronto	GB
+S2_0413	Starlight Group	474 Main St, Suite 475, Sydney	US
+S2_0414	Infosys Services Limited	59, Inner Ring Rd, Mumbai	IN
+S2_0415	Infosys Servcies Limited	59, Inner Ring Rd, Mumbai	IN
+S2_0416	Compagnie Girard S.A.R.L.	105 Rue de la Paix, Lyon	FR
+S2_0417	Mahindra Exports Ltd	48, Inner Ring Rd, Hyderabad	IN
+S2_0418	Atelier Moreau S.A.RL..	149 Rue de la Paix, Paris	FR
+S2_0419	Societe Dufour S.A.	189 Rue de la Paix, Marseille	FR
+S2_0420	Apex Group	310 Market Boulevard, Suite 687, London	GB
+S2_0421	AtelierD ufour S.A.	179 Rue de Rivoli, Marseille	FR
+S2_0422	Atelier Girard S.A.R.L.		FR
+S2_0423	Schmidt Handel KG	Berliner Strasse 105, Berlin	DE
+S2_0424	horizon pharmaceuticals	223 Main Street, Suite 672, Sydney	US
+S2_0425	compagnie girard sas	124 Avenue des Champs-Elysees, Paris	FR
+S2_0426	mahindra services limited	40, Inner Ring Rd, Delhi	IN
+S2_0427	Wipro Infra Ltd	13, MG Road, Mumbai	IN
+S2_0428	reliance group	564 Market Chaussee, Suite 701, Toronto	JP
+S2_0429	Reliance S.A.	372 Main Way, Suite 443, New York	GB
+S2_0430	Reliance Group	798 Washington Strasse, Suite 282, New York	US
+S2_0431	Weber Techink GmbH	Hauptstrasse 12, Berlin	DE
+S2_0432	Mahindra Export sLimited	92, Inner Ring Rd, Bengaluru	IN
+S2_0433	muller holdings	679 Broadway Rd, Suite 788, Toronto	US
+S2_0434	Muller Hodlings	679 Broadway Rd, Suite 788, Toronto	US
+S2_0435	Satoshi Technologies	333 Main Avenue, Suite 693, New York	JP
+S2_0436	Synergy Logistics	122 Main Chaussee, Suite 477, Toronto	US
+S2_0437	Reliance Digital Ltd	74, Inner Ring Rd, Delhi	IN
+S2_0438	Groupe Moreau S.A.R.L.	51 Avenue des Champs-Elysees, Paris	FR
+S2_0439	Atelier Laurent S.A..RL.	155 Rue de la Paix, Lyon	FR
+S2_0440	Compagnie Girard S.A.R.L.	40 Ave. des Champs-Elysees, Paris	FR
+S2_0441	Weber Industrie KG	Hauptstrasse 55, Berlin	DE
+S2_0442	tata exports ltd	54, GC Avenue, Mumbai	IN
+S2_0443	Mahindra Digital Ltd	53, Inner Ring Rd, Mumbai	IN
+S2_0444	atelier moreau sas	195 Rue de Rivoli, Marseille	FR
+S2_0445	atelier moreau sas	195 Rue de Rivoli, Marseille	FR
+S2_0446	Synergy tLd.	569 Oak Strasse, Suite 217, Sydney	GB
+S2_0447	Reliance Infra Ltd	7, NH-44, Bengaluru	IN
+S2_0448	Reliance Infra Ltd	7, NH-44, Bengaluru	IN
+S2_0449	Apex Logistics	796 Broadway Rue, Suite 543, London	JP
+S2_0450	Compagnie Laurent SAS	126 Boulevard Saint-Germain, Paris	FR
+S2_0451	Omni Gorup	939 Market Road, Suite 303, London	US
+S2_0452	Wipro Services Ltd	50, MG Road, Mumbai	IN
+S2_0453	Vetrex Ltd.	566 Market Rue, Suite 254, London	US
+S2_0454	Quantum Enterprises	827 Washington Blvd, Suite 641, London	US
+S2_0455	Atelier Dufour S.A.	29 Rue de la Paix, Marseille	FR
+S2_0456	Reliance Pharmaceuticals	77 Broadway Blvd, Suite 588, New York	AU
+S2_0457	Societe Moreau .SA.	123 Boulevard Saint-Germain, Marseille	FR
+S2_0458	Reliance Infra Ltd		IN
+S2_0459	Compagnie Girard S.A.	44 Blvd. Saint-Germain, Marseille	FR
+S2_0460	Societe GirardS AS	24 Rue de la Paix, Marseille	FR
+S2_0461	Nexus Ltd.		US
+S2_0462	Tata Infra Pvt Ltd	19, MG Road, Delhi	IN
+S2_0463	WiproS ervices Ltd	36, Inner Ring Rd, Delhi	IN
+S2_0464	Nexus Ltd.	831 Broadway Chaussee, Suite 345, New York	US
+S2_0465	Reliance Enterprises	156 Oak Chaussee, Suite 847, Sydney	CA
+S2_0466	starlight pharmaceuticals	596 Main Road, Suite 506, Toronto	JP
+S2_0467	Atelier Dufour SAS	179 Rue de la Paix, Lyon	FR
+S2_0468	Wipro Digital Limited	4, GC Avenue, Bengaluru	IN
+S2_0469	Tata Infra Ltd	81, MG Road, Bengaluru	IN
+S2_0470	Synergy Etnerprises	584 Washington Strasse, Suite 112, Toronto	US
+S2_0471	Compagnie Laurent S.A.R.L.	22 Rue de la Paix, Lyon	FR
+S2_0472	Schmidt Handel AG	Bahnhofstrasse 21, Munchen	DE
+S2_0473	Infosys Infra Pvt Ltd	57, Inner Ring Rd, Delhi	IN
+S2_0474	Satoshi Group	803 Main Road, Suite 426, London	AU
+S2_0475	Satoshi Group	803 Main Road, Suite 426, London	AU
+S2_0476	Omni Corp.	137 Main St, Suite 775, Toronto	GB
+S2_0477	Atelier Laurent S.A.		FR
+S2_0478	Atelier Laurent S.A.	34 Ave. des Champs-Elysees, Lyon	FR
+S2_0479	Infosys Digital Ltd	14, NH-44, Bengaluru	IN
+S2_0480	Nexus Enterprises		CA
+S2_0481	Tata Pharmaceuticals		GB
+S2_0482	Tata Pharmaceuticals	197 Oak Street, Suite 573, New York	GB
+S2_0483	schneider handel kg	Berliner Strasse 136, Hamburg	DE
+S2_0484	global industries	816 Main St, Suite 332, London	CA
+S2_0485	Reliance Holdings	32 Oak Rue, Suite 583, Sydney	AU
+S2_0486	Ateleir Girard S.A.R.L.	14 Avenue des Champs-Elysees, Lyon	FR
+S2_0487	muller technologies	859 Oak Strasse, Suite 815, New York	US
+S2_0488	Tata Exports Ltd		IN
+S2_0489	Societe Laurent S.A.R.L.	8 Rue de la Paix, Lyon	FR
+S2_0490	Biolab GbmH	586 Washington Ave, Suite 236, Toronto	US
+S2_0491	Unmapped S2 Enterprise 1	5 Unknown Blvd, City_1	FR
+S2_0492	Unmapped S2 Enterprise 2	10 Unknown Blvd, City_2	JP
+S2_0493	Unmapped S2 Enterprise 3	15 Unknown Blvd, City_3	DE
+S2_0494	Unmapped S2 Enterprise 4	20 Unknown Blvd, City_4	US
+S2_0495	Unmapped S2 Enterprise 5	25 Unknown Blvd, City_5	FR
+S2_0496	Unmapped S2 Enterprise 6	30 Unknown Blvd, City_6	GB
+S2_0497	Unmapped S2 Enterprise 7	35 Unknown Blvd, City_7	IN
+S2_0498	Unmapped S2 Enterprise 8	40 Unknown Blvd, City_8	DE
+S2_0499	Unmapped S2 Enterprise 9	45 Unknown Blvd, City_9	US
+S2_0500	Unmapped S2 Enterprise 10	50 Unknown Blvd, City_10	CA
+S2_0501	Unmapped S2 Enterprise 11	55 Unknown Blvd, City_11	FR
+S2_0502	Unmapped S2 Enterprise 12	60 Unknown Blvd, City_12	GB
+S2_0503	Unmapped S2 Enterprise 13	65 Unknown Blvd, City_13	AU
+S2_0504	Unmapped S2 Enterprise 14	70 Unknown Blvd, City_14	DE
+S2_0505	Unmapped S2 Enterprise 15	75 Unknown Blvd, City_15	JP
+S2_0506	Unmapped S2 Enterprise 16	80 Unknown Blvd, City_16	DE
+S2_0507	Unmapped S2 Enterprise 17	85 Unknown Blvd, City_17	CA
+S2_0508	Unmapped S2 Enterprise 18	90 Unknown Blvd, City_18	GB
+S2_0509	Unmapped S2 Enterprise 19	95 Unknown Blvd, City_19	CA
+S2_0510	Unmapped S2 Enterprise 20	100 Unknown Blvd, City_20	US
+S2_0511	Unmapped S2 Enterprise 21	105 Unknown Blvd, City_21	AU
+S2_0512	Unmapped S2 Enterprise 22	110 Unknown Blvd, City_22	CA
+S2_0513	Unmapped S2 Enterprise 23	115 Unknown Blvd, City_23	IN
+S2_0514	Unmapped S2 Enterprise 24	120 Unknown Blvd, City_24	JP
+S2_0515	Unmapped S2 Enterprise 25	125 Unknown Blvd, City_25	CA
+S2_0516	Unmapped S2 Enterprise 26	130 Unknown Blvd, City_26	JP
+S2_0517	Unmapped S2 Enterprise 27	135 Unknown Blvd, City_27	CA
+S2_0518	Unmapped S2 Enterprise 28	140 Unknown Blvd, City_28	DE
+S2_0519	Unmapped S2 Enterprise 29	145 Unknown Blvd, City_29	AU
+S2_0520	Unmapped S2 Enterprise 30	150 Unknown Blvd, City_30	FR
+S2_0521	Unmapped S2 Enterprise 31	155 Unknown Blvd, City_31	CA
+S2_0522	Unmapped S2 Enterprise 32	160 Unknown Blvd, City_32	US
+S2_0523	Unmapped S2 Enterprise 33	165 Unknown Blvd, City_33	AU
+S2_0524	Unmapped S2 Enterprise 34	170 Unknown Blvd, City_34	AU
+S2_0525	Unmapped S2 Enterprise 35	175 Unknown Blvd, City_35	AU
+S2_0526	Unmapped S2 Enterprise 36	180 Unknown Blvd, City_36	JP
+S2_0527	Unmapped S2 Enterprise 37	185 Unknown Blvd, City_37	US
+S2_0528	Unmapped S2 Enterprise 38	190 Unknown Blvd, City_38	US
+S2_0529	Unmapped S2 Enterprise 39	195 Unknown Blvd, City_39	JP
+S2_0530	Unmapped S2 Enterprise 40	200 Unknown Blvd, City_40	DE
+S2_0531	Unmapped S2 Enterprise 41	205 Unknown Blvd, City_41	US
+S2_0532	Unmapped S2 Enterprise 42	210 Unknown Blvd, City_42	IN
+S2_0533	Unmapped S2 Enterprise 43	215 Unknown Blvd, City_43	JP
+S2_0534	Unmapped S2 Enterprise 44	220 Unknown Blvd, City_44	GB
+S2_0535	Unmapped S2 Enterprise 45	225 Unknown Blvd, City_45	CA
+S2_0536	Unmapped S2 Enterprise 46	230 Unknown Blvd, City_46	GB
+S2_0537	Unmapped S2 Enterprise 47	235 Unknown Blvd, City_47	JP
+S2_0538	Unmapped S2 Enterprise 48	240 Unknown Blvd, City_48	AU
+S2_0539	Unmapped S2 Enterprise 49	245 Unknown Blvd, City_49	JP
+S2_0540	Unmapped S2 Enterprise 50	250 Unknown Blvd, City_50	US

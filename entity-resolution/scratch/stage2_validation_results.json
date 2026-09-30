@@ -1,0 +1,145 @@
+{
+  "row_counts": {
+    "S1": {
+      "raw": 500,
+      "processed": 500,
+      "pass": true
+    },
+    "S2": {
+      "raw": 540,
+      "processed": 540,
+      "pass": true
+    },
+    "S3": {
+      "raw": 506,
+      "processed": 506,
+      "pass": true
+    }
+  },
+  "id_preservation": {
+    "S1": {
+      "equal": true,
+      "unique": true
+    },
+    "S2": {
+      "equal": true,
+      "unique": true
+    },
+    "S3": {
+      "equal": true,
+      "unique": true
+    }
+  },
+  "raw_files_untouched": true,
+  "missing_values": {
+    "S1": {
+      "business_name_missing_raw": 0,
+      "business_name_missing_norm": 0,
+      "business_address_missing_raw": 7,
+      "business_address_missing_norm": 7,
+      "country_missing_raw": 0,
+      "country_missing_norm": 0
+    },
+    "S2": {
+      "business_name_missing_raw": 0,
+      "business_name_missing_norm": 0,
+      "business_address_missing_raw": 59,
+      "business_address_missing_norm": 59,
+      "country_missing_raw": 0,
+      "country_missing_norm": 0
+    },
+    "S3": {
+      "business_name_missing_raw": 0,
+      "business_name_missing_norm": 0,
+      "business_address_missing_raw": 7,
+      "business_address_missing_norm": 7,
+      "country_missing_raw": 0,
+      "country_missing_norm": 0
+    }
+  },
+  "country_distribution": {
+    "S1": {
+      "raw": {
+        "US": 133,
+        "IN": 119,
+        "FR": 75,
+        "GB": 52,
+        "DE": 50,
+        "CA": 26,
+        "AU": 26,
+        "JP": 19
+      },
+      "normalized": {
+        "US": 133,
+        "IN": 119,
+        "FR": 75,
+        "GB": 52,
+        "DE": 50,
+        "CA": 26,
+        "AU": 26,
+        "JP": 19
+      }
+    },
+    "S2": {
+      "raw": {
+        "US": 135,
+        "IN": 119,
+        "FR": 86,
+        "DE": 53,
+        "GB": 52,
+        "AU": 36,
+        "CA": 31,
+        "JP": 28
+      },
+      "normalized": {
+        "US": 135,
+        "IN": 119,
+        "FR": 86,
+        "DE": 53,
+        "GB": 52,
+        "AU": 36,
+        "CA": 31,
+        "JP": 28
+      }
+    },
+    "S3": {
+      "raw": {
+        "US": 126,
+        "IN": 116,
+        "FR": 75,
+        "GB": 55,
+        "DE": 43,
+        "CA": 36,
+        "AU": 30,
+        "JP": 25
+      },
+      "normalized": {
+        "US": 126,
+        "IN": 116,
+        "FR": 75,
+        "GB": 55,
+        "DE": 43,
+        "CA": 36,
+        "AU": 30,
+        "JP": 25
+      }
+    }
+  },
+  "transformations_changed": {
+    "S1": {
+      "business_names_changed": 500,
+      "business_addresses_changed": 500,
+      "countries_changed": 0
+    },
+    "S2": {
+      "business_names_changed": 506,
+      "business_addresses_changed": 540,
+      "countries_changed": 0
+    },
+    "S3": {
+      "business_names_changed": 506,
+      "business_addresses_changed": 506,
+      "countries_changed": 0
+    }
+  }
+}

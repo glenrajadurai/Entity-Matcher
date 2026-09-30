@@ -1,0 +1,242 @@
+{
+  "row_counts": {
+    "S1": 500,
+    "S2": 540,
+    "S3": 506,
+    "GT": 946
+  },
+  "columns": {
+    "S1": [
+      "entity_id",
+      "business_name",
+      "business_address",
+      "country"
+    ],
+    "S2": [
+      "entity_id",
+      "business_name",
+      "business_address",
+      "country"
+    ],
+    "S3": [
+      "entity_id",
+      "business_name",
+      "business_address",
+      "country"
+    ],
+    "GT": [
+      "s1_entity_id",
+      "source_id",
+      "target_entity_id"
+    ]
+  },
+  "missing_values": {
+    "S1": {
+      "entity_id": 0,
+      "business_name": 0,
+      "business_address": 7,
+      "country": 0
+    },
+    "S2": {
+      "entity_id": 0,
+      "business_name": 0,
+      "business_address": 59,
+      "country": 0
+    },
+    "S3": {
+      "entity_id": 0,
+      "business_name": 0,
+      "business_address": 7,
+      "country": 0
+    }
+  },
+  "country_dist": {
+    "S1": {
+      "US": 133,
+      "IN": 119,
+      "FR": 75,
+      "GB": 52,
+      "DE": 50,
+      "CA": 26,
+      "AU": 26,
+      "JP": 19
+    },
+    "S2": {
+      "US": 135,
+      "IN": 119,
+      "FR": 86,
+      "DE": 53,
+      "GB": 52,
+      "AU": 36,
+      "CA": 31,
+      "JP": 28
+    },
+    "S3": {
+      "US": 126,
+      "IN": 116,
+      "FR": 75,
+      "GB": 55,
+      "DE": 43,
+      "CA": 36,
+      "AU": 30,
+      "JP": 25
+    }
+  },
+  "duplicate_names_S1": {
+    "exact_duplicates": 229,
+    "normalized_duplicates": 229,
+    "total_non_null": 500
+  },
+  "duplicate_names_S2": {
+    "exact_duplicates": 127,
+    "normalized_duplicates": 157,
+    "total_non_null": 540
+  },
+  "duplicate_names_S3": {
+    "exact_duplicates": 168,
+    "normalized_duplicates": 168,
+    "total_non_null": 506
+  },
+  "duplicate_addresses_S1": {
+    "exact_duplicates": 6,
+    "normalized_duplicates": 6,
+    "total_non_null": 493
+  },
+  "duplicate_addresses_S2": {
+    "exact_duplicates": 42,
+    "normalized_duplicates": 42,
+    "total_non_null": 481
+  },
+  "duplicate_addresses_S3": {
+    "exact_duplicates": 43,
+    "normalized_duplicates": 43,
+    "total_non_null": 499
+  },
+  "length_dist_S1": {
+    "name_char_len": {
+      "min": 9,
+      "max": 26,
+      "mean": 17.93,
+      "median": 18.0
+    },
+    "name_word_len": {
+      "min": 2,
+      "max": 4,
+      "mean": 2.56,
+      "median": 2.0
+    },
+    "addr_char_len": {
+      "min": 16,
+      "max": 45,
+      "mean": 30.76,
+      "median": 32.0
+    },
+    "addr_word_len": {
+      "min": 3,
+      "max": 7,
+      "mean": 5.24,
+      "median": 6.0
+    }
+  },
+  "length_dist_S2": {
+    "name_char_len": {
+      "min": 9,
+      "max": 26,
+      "mean": 18.53,
+      "median": 19.0
+    },
+    "name_word_len": {
+      "min": 2,
+      "max": 4,
+      "mean": 2.7,
+      "median": 3.0
+    },
+    "addr_char_len": {
+      "min": 16,
+      "max": 45,
+      "mean": 30.06,
+      "median": 30.0
+    },
+    "addr_word_len": {
+      "min": 3,
+      "max": 7,
+      "mean": 5.11,
+      "median": 5.0
+    }
+  },
+  "length_dist_S3": {
+    "name_char_len": {
+      "min": 4,
+      "max": 26,
+      "mean": 17.12,
+      "median": 18.0
+    },
+    "name_word_len": {
+      "min": 1,
+      "max": 4,
+      "mean": 2.55,
+      "median": 2.0
+    },
+    "addr_char_len": {
+      "min": 16,
+      "max": 45,
+      "mean": 30.45,
+      "median": 31.0
+    },
+    "addr_word_len": {
+      "min": 3,
+      "max": 7,
+      "mean": 5.15,
+      "median": 6.0
+    }
+  },
+  "unusual_chars_S1": {
+    "non_ascii_names_count": 0,
+    "non_ascii_addrs_count": 0
+  },
+  "unusual_chars_S2": {
+    "non_ascii_names_count": 0,
+    "non_ascii_addrs_count": 0
+  },
+  "unusual_chars_S3": {
+    "non_ascii_names_count": 0,
+    "non_ascii_addrs_count": 0
+  },
+  "incomplete_records_S1": 7,
+  "incomplete_records_S2": 59,
+  "incomplete_records_S3": 7,
+  "gt_match_dist_s2": {
+    "1": 378,
+    "0": 66,
+    "2": 56
+  },
+  "gt_match_dist_s3": {
+    "1": 352,
+    "0": 96,
+    "2": 52
+  },
+  "gt_match_dist_total": {
+    "2": 284,
+    "1": 116,
+    "3": 82,
+    "0": 14,
+    "4": 4
+  },
+  "entity_match_breakdown": {
+    "S2": {
+      "zero_match": 66,
+      "one_match": 378,
+      "many_match": 56
+    },
+    "S3": {
+      "zero_match": 96,
+      "one_match": 352,
+      "many_match": 52
+    },
+    "Combined": {
+      "zero_match": 14,
+      "one_match": 116,
+      "many_match": 370
+    }
+  }
+}
